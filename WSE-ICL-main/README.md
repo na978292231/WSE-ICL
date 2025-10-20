@@ -19,8 +19,8 @@ Word(Lattice) embeddings (ctb.50d.vec): [Baidu Pan](https://pan.baidu.com/s/1pLO
 Modify the `config.py and seq_model.py` to add the pretrained embedding and the dataset.
 ### Data
 通过网盘分享的文件：WSE-ICL-data
-链接: https://pan.baidu.com/s/1gJDK_Viu-mPfsP3XVpOGZg?pwd=97vr 提取码: 97vr
-[Download](https://drive.google.com/file/d/1Pzsfn7mTwu6kIGssHGcXMVLH7hmLuShV/view?usp=drive_link) dataset and unzip them in `./data`.\
+链接: https://pan.baidu.com/s/1gJDK_Viu-mPfsP3XVpOGZg?pwd=97vr 提取码: 97vr\
+Download dataset and unzip them in `./data`.\
 The structure of the project looks like:
 ```
 .
