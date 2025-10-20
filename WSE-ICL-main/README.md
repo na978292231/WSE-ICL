@@ -58,8 +58,12 @@ The structure of the project looks like:
         └── train.jsonl
 ```
 # SeqModel
+```
 cd  seq+wse
+```
+```
 python train_and_eval.py
+```
 
 ## Run
 Run WSE-ICL or In-Context Learning as follows, check the configuration in the script including dataset, llm, seed, etc.
