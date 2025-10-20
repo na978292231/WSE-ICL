@@ -16,7 +16,7 @@ Prepare your LLM ([gpt2](https://huggingface.co/gpt2-xl/tree/main), [llama](http
 Download the pretrained word embeddings and put them in the folder.
 Word(Lattice) embeddings (ctb.50d.vec): [Baidu Pan](https://pan.baidu.com/s/1pLO6T9D)
 ### Config
-Modify the `config.py and seq_model.py` to add the pretrained embedding and the dataset.
+Modify the `config.py, seq_model.py, wse-icl.py, dataset.py and template.py` to add the pretrained embedding and the dataset.
 ### Data
 通过网盘分享的文件：WSE-ICL-data
 链接: https://pan.baidu.com/s/1gJDK_Viu-mPfsP3XVpOGZg?pwd=97vr 提取码: 97vr\
