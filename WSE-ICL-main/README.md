@@ -12,7 +12,14 @@ The code is tested under python==3.8.18, torch==1.12.0 and transformers==4.39.0,
 **Note**: Almost all experiments is conducted on a single NVIDIA A800-SXM4-80GB, except for the llama-30B model which requires two. Besides, bitsandbytes (we use the 0.41.2 version) is needed in quantification for llama2-70B.
 ### Model
 Prepare your LLM ([gpt2](https://huggingface.co/gpt2-xl/tree/main), [llama](https://huggingface.co/docs/transformers/model_doc/llama) or [llama2](https://huggingface.co/docs/transformers/model_doc/llama2)) in `./llm/`, I personally prefer download them myself and configure the local path in scripts.
+### Word Embeddings
+Download the pretrained word embeddings and put them in the folder.
+Word(Lattice) embeddings (ctb.50d.vec): [Baidu Pan](https://pan.baidu.com/s/1pLO6T9D)
+### Config
+Modify the `config.py and seq_model.py` to add the pretrained embedding and the dataset.
 ### Data
+通过网盘分享的文件：WSE-ICL-data
+链接: https://pan.baidu.com/s/1gJDK_Viu-mPfsP3XVpOGZg?pwd=97vr 提取码: 97vr
 [Download](https://drive.google.com/file/d/1Pzsfn7mTwu6kIGssHGcXMVLH7hmLuShV/view?usp=drive_link) dataset and unzip them in `./data`.\
 The structure of the project looks like:
 ```
@@ -22,6 +29,15 @@ The structure of the project looks like:
 ├── run_wse-icl.sh
 ├── icl.py
 ├── fads-icl.py
+├── config.py
+├── seq_model.py
+├──seq+wse
+│   ├── config.py
+│   ├── dataset.py
+│   ├── predict.py
+│   ├── tools.py
+│   ├── train_and_eval.py
+│   └── seq_model.py
 ├──wse-icl.py
 ├── utils
 │   ├── anchor.py
@@ -41,6 +57,9 @@ The structure of the project looks like:
         ├── test.jsonl
         └── train.jsonl
 ```
+# SeqModel
+cd  seq+wse
+python train_and_eval.py
 
 ## Run
 Run WSE-ICL or In-Context Learning as follows, check the configuration in the script including dataset, llm, seed, etc.
