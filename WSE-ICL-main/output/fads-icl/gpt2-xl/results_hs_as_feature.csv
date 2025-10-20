@@ -1,0 +1,355 @@
+dataset,llm,n_train_shot,n_demo_shot,method,seed,acc,running_time
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Nearest Neighbors,1,0.5344129554655871,0.5353093147277832
+wiki-zh,/data/llmweights/gpt2-xl,4,0,MLP,1,0.47657605552342397,0.6145033836364746
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Logistic Regression,1,0.5037593984962406,0.2651071548461914
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Nearest Neighbors,2,0.6940427993059572,0.5006897449493408
+wiki-zh,/data/llmweights/gpt2-xl,4,0,MLP,2,0.6477732793522267,0.508171796798706
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Logistic Regression,2,0.6281087333718912,0.25957512855529785
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Nearest Neighbors,3,0.6807403123192597,0.547304630279541
+wiki-zh,/data/llmweights/gpt2-xl,4,0,MLP,3,0.7108155002891845,0.610262393951416
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Logistic Regression,3,0.7061885482938115,0.24654793739318848
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Nearest Neighbors,4,0.6703296703296703,0.5156822204589844
+wiki-zh,/data/llmweights/gpt2-xl,4,0,MLP,4,0.6859456333140543,0.4391300678253174
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Logistic Regression,4,0.6685945633314054,0.24421286582946777
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Nearest Neighbors,5,0.7004048582995951,0.552457332611084
+wiki-zh,/data/llmweights/gpt2-xl,4,0,MLP,5,0.6980913823019086,0.5306148529052734
+wiki-zh,/data/llmweights/gpt2-xl,4,0,Logistic Regression,5,0.6998264893001735,0.2575857639312744
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Nearest Neighbors,1,0.5777906304222094,0.5539758205413818
+wiki-zh,/data/llmweights/gpt2-xl,8,0,MLP,1,0.5957200694042799,0.511988639831543
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Logistic Regression,1,0.5806824754193175,0.30584239959716797
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Nearest Neighbors,2,0.6026604973973395,0.5214309692382812
+wiki-zh,/data/llmweights/gpt2-xl,8,0,MLP,2,0.5240023134759977,0.4922769069671631
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Logistic Regression,2,0.5320994794679005,0.2671506404876709
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Nearest Neighbors,3,0.6454598033545402,0.6351597309112549
+wiki-zh,/data/llmweights/gpt2-xl,8,0,MLP,3,0.6136495083863505,0.48581719398498535
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Logistic Regression,3,0.5916714864083286,0.29906415939331055
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Nearest Neighbors,4,0.6778484673221515,0.6222164630889893
+wiki-zh,/data/llmweights/gpt2-xl,8,0,MLP,4,0.5245806824754193,0.4160730838775635
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Logistic Regression,4,0.5292076344707923,0.25947999954223633
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Nearest Neighbors,5,0.4574898785425101,0.5495162010192871
+wiki-zh,/data/llmweights/gpt2-xl,8,0,MLP,5,0.47657605552342397,0.523134708404541
+wiki-zh,/data/llmweights/gpt2-xl,8,0,Logistic Regression,5,0.4950838635049161,0.25339794158935547
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Nearest Neighbors,1,0.6633892423366108,0.5389699935913086
+wiki-zh,/data/llmweights/gpt2-xl,16,0,MLP,1,0.6668594563331406,1.001314401626587
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Logistic Regression,1,0.6529786003470214,0.28360843658447266
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Nearest Neighbors,2,0.5824175824175825,0.5660102367401123
+wiki-zh,/data/llmweights/gpt2-xl,16,0,MLP,2,0.5824175824175825,0.5527234077453613
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Logistic Regression,2,0.5691150954308849,0.2749965190887451
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Nearest Neighbors,3,0.7009832272990167,0.60978102684021
+wiki-zh,/data/llmweights/gpt2-xl,16,0,MLP,3,0.6720647773279352,0.6167306900024414
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Logistic Regression,3,0.6633892423366108,0.2709486484527588
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Nearest Neighbors,4,0.43551185656448815,0.5192282199859619
+wiki-zh,/data/llmweights/gpt2-xl,16,0,MLP,4,0.44129554655870445,0.5520615577697754
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Logistic Regression,4,0.46790052053209946,0.2759268283843994
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Nearest Neighbors,5,0.48872180451127817,0.5330572128295898
+wiki-zh,/data/llmweights/gpt2-xl,16,0,MLP,5,0.626951995373048,0.5798749923706055
+wiki-zh,/data/llmweights/gpt2-xl,16,0,Logistic Regression,5,0.6234817813765182,0.27269649505615234
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Nearest Neighbors,1,0.5072296124927704,0.5546674728393555
+wiki-zh,/data/llmweights/gpt2-xl,32,0,MLP,1,0.5795257374204743,0.681164026260376
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Logistic Regression,1,0.5754771544245229,0.2857694625854492
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Nearest Neighbors,2,0.5587044534412956,0.5588884353637695
+wiki-zh,/data/llmweights/gpt2-xl,32,0,MLP,2,0.5639097744360902,0.7688536643981934
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Logistic Regression,2,0.5546558704453441,0.29326748847961426
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Nearest Neighbors,3,0.6211683053788317,0.5667276382446289
+wiki-zh,/data/llmweights/gpt2-xl,32,0,MLP,3,0.6257952573742047,0.7802419662475586
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Logistic Regression,3,0.6211683053788317,0.3400421142578125
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Nearest Neighbors,4,0.6032388663967612,0.545161247253418
+wiki-zh,/data/llmweights/gpt2-xl,32,0,MLP,4,0.578368999421631,0.786515474319458
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Logistic Regression,4,0.5824175824175825,0.3091928958892822
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Nearest Neighbors,5,0.6252168883747831,0.49251389503479004
+wiki-zh,/data/llmweights/gpt2-xl,32,0,MLP,5,0.6292654713707345,0.7224571704864502
+wiki-zh,/data/llmweights/gpt2-xl,32,0,Logistic Regression,5,0.6026604973973395,0.29571104049682617
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Nearest Neighbors,1,0.6072874493927125,0.5823638439178467
+wiki-zh,/data/llmweights/gpt2-xl,64,0,MLP,1,0.6009253903990746,1.1583664417266846
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Logistic Regression,1,0.5760555234239445,0.32929348945617676
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Nearest Neighbors,2,0.5882012724117988,0.5662624835968018
+wiki-zh,/data/llmweights/gpt2-xl,64,0,MLP,2,0.5997686524002314,1.4656474590301514
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Logistic Regression,2,0.5899363794100636,0.4033207893371582
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Nearest Neighbors,3,0.6292654713707345,0.591651439666748
+wiki-zh,/data/llmweights/gpt2-xl,64,0,MLP,3,0.6281087333718912,1.7898845672607422
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Logistic Regression,3,0.6090225563909775,0.3756449222564697
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Nearest Neighbors,4,0.5962984384037016,0.5554599761962891
+wiki-zh,/data/llmweights/gpt2-xl,64,0,MLP,4,0.5899363794100636,1.2013745307922363
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Logistic Regression,4,0.5899363794100636,0.33699560165405273
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Nearest Neighbors,5,0.572006940427993,0.5224881172180176
+wiki-zh,/data/llmweights/gpt2-xl,64,0,MLP,5,0.589358010410642,1.2070698738098145
+wiki-zh,/data/llmweights/gpt2-xl,64,0,Logistic Regression,5,0.5864661654135338,0.33087706565856934
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Nearest Neighbors,1,0.6009253903990746,0.6472787857055664
+wiki-zh,/data/llmweights/gpt2-xl,128,0,MLP,1,0.6194331983805668,4.251039028167725
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Logistic Regression,1,0.600347021399653,0.42641401290893555
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Nearest Neighbors,2,0.6252168883747831,0.5826621055603027
+wiki-zh,/data/llmweights/gpt2-xl,128,0,MLP,2,0.6662810873337189,3.776738166809082
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Logistic Regression,2,0.6495083863504916,0.39667224884033203
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Nearest Neighbors,3,0.6385193753614806,0.65313720703125
+wiki-zh,/data/llmweights/gpt2-xl,128,0,MLP,3,0.637941006362059,3.397535562515259
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Logistic Regression,3,0.6350491613649508,0.39148712158203125
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Nearest Neighbors,4,0.5789473684210527,0.535742998123169
+wiki-zh,/data/llmweights/gpt2-xl,128,0,MLP,4,0.6275303643724697,3.811579942703247
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Logistic Regression,4,0.6136495083863505,0.3758883476257324
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Nearest Neighbors,5,0.6020821283979179,0.6061182022094727
+wiki-zh,/data/llmweights/gpt2-xl,128,0,MLP,5,0.631578947368421,3.1382925510406494
+wiki-zh,/data/llmweights/gpt2-xl,128,0,Logistic Regression,5,0.633314054366686,0.3812131881713867
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Nearest Neighbors,1,0.7200694042799306,0.8658418655395508
+wiki-zh,/data/llmweights/gpt2-xl,4,1,MLP,1,0.5228455754771544,0.5005795955657959
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Logistic Regression,1,0.5482938114517062,0.2532162666320801
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Nearest Neighbors,2,0.39271255060728744,0.6693341732025146
+wiki-zh,/data/llmweights/gpt2-xl,4,1,MLP,2,0.43898207056101796,0.39605140686035156
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Logistic Regression,2,0.43377674956622325,0.2505614757537842
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Nearest Neighbors,3,0.7004048582995951,0.8512094020843506
+wiki-zh,/data/llmweights/gpt2-xl,4,1,MLP,3,0.6344707923655292,0.5044844150543213
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Logistic Regression,3,0.5824175824175825,0.2633657455444336
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Nearest Neighbors,4,0.7119722382880278,0.672076940536499
+wiki-zh,/data/llmweights/gpt2-xl,4,1,MLP,4,0.7264314632735686,0.47179079055786133
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Logistic Regression,4,0.719491035280509,0.25644898414611816
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Nearest Neighbors,5,0.7027183342972817,0.6896092891693115
+wiki-zh,/data/llmweights/gpt2-xl,4,1,MLP,5,0.6263736263736264,0.42597389221191406
+wiki-zh,/data/llmweights/gpt2-xl,4,1,Logistic Regression,5,0.5841526894158473,0.25077176094055176
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Nearest Neighbors,1,0.47368421052631576,0.7742383480072021
+wiki-zh,/data/llmweights/gpt2-xl,8,1,MLP,1,0.5245806824754193,0.7194540500640869
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Logistic Regression,1,0.5008675534991325,0.2661771774291992
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Nearest Neighbors,2,0.6286871023713129,0.6352462768554688
+wiki-zh,/data/llmweights/gpt2-xl,8,1,MLP,2,0.611336032388664,0.5822553634643555
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Logistic Regression,2,0.626951995373048,0.29888391494750977
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Nearest Neighbors,3,0.6055523423944477,0.7255551815032959
+wiki-zh,/data/llmweights/gpt2-xl,8,1,MLP,3,0.6356275303643725,0.5118551254272461
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Logistic Regression,3,0.633314054366686,0.2612428665161133
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Nearest Neighbors,4,0.6414112203585888,0.7020246982574463
+wiki-zh,/data/llmweights/gpt2-xl,8,1,MLP,4,0.4939271255060729,0.6445958614349365
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Logistic Regression,4,0.5164835164835165,0.26085472106933594
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Nearest Neighbors,5,0.4956622325043378,0.6639621257781982
+wiki-zh,/data/llmweights/gpt2-xl,8,1,MLP,5,0.5037593984962406,0.6693143844604492
+wiki-zh,/data/llmweights/gpt2-xl,8,1,Logistic Regression,5,0.4916136495083864,0.2610185146331787
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Nearest Neighbors,1,0.5858877964141121,0.8620376586914062
+wiki-zh,/data/llmweights/gpt2-xl,16,1,MLP,1,0.6304222093695778,0.8036553859710693
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Logistic Regression,1,0.518796992481203,0.27243733406066895
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Nearest Neighbors,2,0.6743782533256217,0.7095315456390381
+wiki-zh,/data/llmweights/gpt2-xl,16,1,MLP,2,0.6876807403123193,0.6976525783538818
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Logistic Regression,2,0.6720647773279352,0.2842531204223633
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Nearest Neighbors,3,0.6911509543088491,0.8583810329437256
+wiki-zh,/data/llmweights/gpt2-xl,16,1,MLP,3,0.6957779063042221,0.5940868854522705
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Logistic Regression,3,0.6749566223250434,0.2786712646484375
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Nearest Neighbors,4,0.507807981492192,0.8150758743286133
+wiki-zh,/data/llmweights/gpt2-xl,16,1,MLP,4,0.4817813765182186,0.6682794094085693
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Logistic Regression,4,0.4551764025448236,0.27242088317871094
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Nearest Neighbors,5,0.5899363794100636,0.6837198734283447
+wiki-zh,/data/llmweights/gpt2-xl,16,1,MLP,5,0.5986119144013881,0.6676042079925537
+wiki-zh,/data/llmweights/gpt2-xl,16,1,Logistic Regression,5,0.5795257374204743,0.27872204780578613
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Nearest Neighbors,1,0.556390977443609,0.7825071811676025
+wiki-zh,/data/llmweights/gpt2-xl,32,1,MLP,1,0.6032388663967612,1.1818726062774658
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Logistic Regression,1,0.5708502024291497,0.306246280670166
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Nearest Neighbors,2,0.6292654713707345,0.7228264808654785
+wiki-zh,/data/llmweights/gpt2-xl,32,1,MLP,2,0.6252168883747831,1.0676732063293457
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Logistic Regression,2,0.6240601503759399,0.3503286838531494
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Nearest Neighbors,3,0.589358010410642,0.8739397525787354
+wiki-zh,/data/llmweights/gpt2-xl,32,1,MLP,3,0.6338924233661076,1.4627423286437988
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Logistic Regression,3,0.6298438403701562,0.3084385395050049
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Nearest Neighbors,4,0.5546558704453441,0.7153282165527344
+wiki-zh,/data/llmweights/gpt2-xl,32,1,MLP,4,0.5812608444187392,0.7238707542419434
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Logistic Regression,4,0.5934065934065934,0.3044009208679199
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Nearest Neighbors,5,0.5858877964141121,0.8223297595977783
+wiki-zh,/data/llmweights/gpt2-xl,32,1,MLP,5,0.6200115673799884,1.2400283813476562
+wiki-zh,/data/llmweights/gpt2-xl,32,1,Logistic Regression,5,0.5945633314054367,0.3135848045349121
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Nearest Neighbors,1,0.5916714864083286,1.0151762962341309
+wiki-zh,/data/llmweights/gpt2-xl,64,1,MLP,1,0.589358010410642,4.258754253387451
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Logistic Regression,1,0.551764025448236,0.3669013977050781
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Nearest Neighbors,2,0.6211683053788317,0.9021115303039551
+wiki-zh,/data/llmweights/gpt2-xl,64,1,MLP,2,0.6229034123770966,1.6987628936767578
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Logistic Regression,2,0.5835743204164257,0.34470367431640625
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Nearest Neighbors,3,0.6130711393869288,0.6295120716094971
+wiki-zh,/data/llmweights/gpt2-xl,64,1,MLP,3,0.6477732793522267,2.267045497894287
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Logistic Regression,3,0.6176980913823019,0.3384695053100586
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Nearest Neighbors,4,0.6356275303643725,0.6813693046569824
+wiki-zh,/data/llmweights/gpt2-xl,64,1,MLP,4,0.6229034123770966,1.820432424545288
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Logistic Regression,4,0.633314054366686,0.3412332534790039
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Nearest Neighbors,5,0.6061307113938693,0.7932431697845459
+wiki-zh,/data/llmweights/gpt2-xl,64,1,MLP,5,0.6263736263736264,2.3983919620513916
+wiki-zh,/data/llmweights/gpt2-xl,64,1,Logistic Regression,5,0.6043956043956044,0.35993385314941406
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Nearest Neighbors,1,0.6437246963562753,0.7256934642791748
+wiki-zh,/data/llmweights/gpt2-xl,128,1,MLP,1,0.6310005783689995,5.163682460784912
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Logistic Regression,1,0.6032388663967612,0.39020299911499023
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Nearest Neighbors,2,0.6188548293811452,0.791762113571167
+wiki-zh,/data/llmweights/gpt2-xl,128,1,MLP,2,0.6512434933487565,3.0983970165252686
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Logistic Regression,2,0.6373626373626373,0.4182744026184082
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Nearest Neighbors,3,0.6171197223828803,0.7541649341583252
+wiki-zh,/data/llmweights/gpt2-xl,128,1,MLP,3,0.6408328513591671,5.174635171890259
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Logistic Regression,3,0.6148062463851938,0.39230942726135254
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Nearest Neighbors,4,0.6101792943898207,0.7523105144500732
+wiki-zh,/data/llmweights/gpt2-xl,128,1,MLP,4,0.6570271833429728,4.014001369476318
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Logistic Regression,4,0.6176980913823019,0.46178412437438965
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Nearest Neighbors,5,0.6460381723539619,0.8954794406890869
+wiki-zh,/data/llmweights/gpt2-xl,128,1,MLP,5,0.6385193753614806,4.408613443374634
+wiki-zh,/data/llmweights/gpt2-xl,128,1,Logistic Regression,5,0.6229034123770966,0.43187808990478516
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Nearest Neighbors,1,0.5806824754193175,1.272338628768921
+wiki-zh,/data/llmweights/gpt2-xl,8,4,MLP,1,0.4551764025448236,0.6447763442993164
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Logistic Regression,1,0.4898785425101215,0.2853970527648926
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Nearest Neighbors,2,0.4956622325043378,1.1788780689239502
+wiki-zh,/data/llmweights/gpt2-xl,8,4,MLP,2,0.5835743204164257,0.7519776821136475
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Logistic Regression,2,0.5945633314054367,0.27278900146484375
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Nearest Neighbors,3,0.5211104684788895,1.1182992458343506
+wiki-zh,/data/llmweights/gpt2-xl,8,4,MLP,3,0.5211104684788895,0.42138075828552246
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Logistic Regression,3,0.5211104684788895,0.2677793502807617
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Nearest Neighbors,4,0.6344707923655292,0.9166786670684814
+wiki-zh,/data/llmweights/gpt2-xl,8,4,MLP,4,0.6286871023713129,0.6270389556884766
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Logistic Regression,4,0.6286871023713129,0.25508904457092285
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Nearest Neighbors,5,0.6691729323308271,0.9961292743682861
+wiki-zh,/data/llmweights/gpt2-xl,8,4,MLP,5,0.6200115673799884,0.5854170322418213
+wiki-zh,/data/llmweights/gpt2-xl,8,4,Logistic Regression,5,0.6130711393869288,0.26723766326904297
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Nearest Neighbors,1,0.503181029496819,0.95082688331604
+wiki-zh,/data/llmweights/gpt2-xl,16,4,MLP,1,0.5962984384037016,0.6843702793121338
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Logistic Regression,1,0.5708502024291497,0.2684314250946045
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Nearest Neighbors,2,0.664545980335454,1.0092175006866455
+wiki-zh,/data/llmweights/gpt2-xl,16,4,MLP,2,0.6495083863504916,0.616671085357666
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Logistic Regression,2,0.6564488143435512,0.28161072731018066
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Nearest Neighbors,3,0.6807403123192597,1.2259135246276855
+wiki-zh,/data/llmweights/gpt2-xl,16,4,MLP,3,0.5760555234239445,0.7354555130004883
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Logistic Regression,3,0.5748987854251012,0.2359483242034912
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Nearest Neighbors,4,0.5159051474840949,0.8973393440246582
+wiki-zh,/data/llmweights/gpt2-xl,16,4,MLP,4,0.525159051474841,0.6525096893310547
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Logistic Regression,4,0.4916136495083864,0.26731157302856445
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Nearest Neighbors,5,0.6419895893580104,1.010944128036499
+wiki-zh,/data/llmweights/gpt2-xl,16,4,MLP,5,0.6408328513591671,0.6070482730865479
+wiki-zh,/data/llmweights/gpt2-xl,16,4,Logistic Regression,5,0.6396761133603239,0.28154850006103516
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Nearest Neighbors,1,0.6876807403123193,1.0885908603668213
+wiki-zh,/data/llmweights/gpt2-xl,32,4,MLP,1,0.6795835743204164,0.8278141021728516
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Logistic Regression,1,0.6622325043377675,0.2888212203979492
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Nearest Neighbors,2,0.5390399074609601,0.9832234382629395
+wiki-zh,/data/llmweights/gpt2-xl,32,4,MLP,2,0.5835743204164257,0.8832798004150391
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Logistic Regression,2,0.5818392134181608,0.3570125102996826
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Nearest Neighbors,3,0.6564488143435512,1.0553076267242432
+wiki-zh,/data/llmweights/gpt2-xl,32,4,MLP,3,0.6587622903412377,1.1140024662017822
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Logistic Regression,3,0.6628108733371891,0.3178222179412842
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Nearest Neighbors,4,0.6026604973973395,1.1796302795410156
+wiki-zh,/data/llmweights/gpt2-xl,32,4,MLP,4,0.6165413533834586,0.7298023700714111
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Logistic Regression,4,0.6026604973973395,0.2584869861602783
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Nearest Neighbors,5,0.6350491613649508,1.3747808933258057
+wiki-zh,/data/llmweights/gpt2-xl,32,4,MLP,5,0.6257952573742047,0.7430565357208252
+wiki-zh,/data/llmweights/gpt2-xl,32,4,Logistic Regression,5,0.584731058415269,0.3159365653991699
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Nearest Neighbors,1,0.6547137073452863,1.3755943775177002
+wiki-zh,/data/llmweights/gpt2-xl,64,4,MLP,1,0.633314054366686,1.3533110618591309
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Logistic Regression,1,0.6136495083863505,0.3746919631958008
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Nearest Neighbors,2,0.5910931174089069,1.2715332508087158
+wiki-zh,/data/llmweights/gpt2-xl,64,4,MLP,2,0.5928282244071718,1.5506846904754639
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Logistic Regression,2,0.582995951417004,0.34854626655578613
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Nearest Neighbors,3,0.6500867553499132,1.1931374073028564
+wiki-zh,/data/llmweights/gpt2-xl,64,4,MLP,3,0.6124927703875073,1.8522610664367676
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Logistic Regression,3,0.606709080393291,0.3433094024658203
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Nearest Neighbors,4,0.5766338924233662,1.1073729991912842
+wiki-zh,/data/llmweights/gpt2-xl,64,4,MLP,4,0.6257952573742047,1.2446298599243164
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Logistic Regression,4,0.5980335454019664,0.32508206367492676
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Nearest Neighbors,5,0.5598611914401388,1.3523528575897217
+wiki-zh,/data/llmweights/gpt2-xl,64,4,MLP,5,0.5772122614227877,1.248084306716919
+wiki-zh,/data/llmweights/gpt2-xl,64,4,Logistic Regression,5,0.5656448814343551,0.3237776756286621
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Nearest Neighbors,1,0.6015037593984962,1.2108840942382812
+wiki-zh,/data/llmweights/gpt2-xl,128,4,MLP,1,0.6292654713707345,2.71496844291687
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Logistic Regression,1,0.5991902834008097,0.3813807964324951
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Nearest Neighbors,2,0.6321573163678427,1.2304580211639404
+wiki-zh,/data/llmweights/gpt2-xl,128,4,MLP,2,0.6813186813186813,3.7354681491851807
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Logistic Regression,2,0.6576055523423945,0.4077107906341553
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Nearest Neighbors,3,0.6130711393869288,1.256937026977539
+wiki-zh,/data/llmweights/gpt2-xl,128,4,MLP,3,0.6061307113938693,4.427214622497559
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Logistic Regression,3,0.5945633314054367,0.4116339683532715
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Nearest Neighbors,4,0.5523423944476576,1.2200493812561035
+wiki-zh,/data/llmweights/gpt2-xl,128,4,MLP,4,0.6286871023713129,3.3828511238098145
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Logistic Regression,4,0.5991902834008097,0.36861467361450195
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Nearest Neighbors,5,0.589358010410642,1.277801752090454
+wiki-zh,/data/llmweights/gpt2-xl,128,4,MLP,5,0.6182764603817236,3.7055554389953613
+wiki-zh,/data/llmweights/gpt2-xl,128,4,Logistic Regression,5,0.6292654713707345,0.40335798263549805
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Nearest Neighbors,1,0.6859456333140543,1.653667688369751
+wiki-zh,/data/llmweights/gpt2-xl,16,8,MLP,1,0.5332562174667438,0.5073561668395996
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Logistic Regression,1,0.5546558704453441,0.27048182487487793
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Nearest Neighbors,2,0.64893001735107,1.0252799987792969
+wiki-zh,/data/llmweights/gpt2-xl,16,8,MLP,2,0.6142278773857721,0.47689390182495117
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Logistic Regression,2,0.6298438403701562,0.25374650955200195
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Nearest Neighbors,3,0.5991902834008097,0.9678256511688232
+wiki-zh,/data/llmweights/gpt2-xl,16,8,MLP,3,0.6448814343551186,0.6072835922241211
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Logistic Regression,3,0.6165413533834586,0.2596879005432129
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Nearest Neighbors,4,0.6240601503759399,1.075761318206787
+wiki-zh,/data/llmweights/gpt2-xl,16,8,MLP,4,0.5378831694621168,0.6436536312103271
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Logistic Regression,4,0.5621746674378253,0.27115917205810547
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Nearest Neighbors,5,0.5349913244650086,0.9737346172332764
+wiki-zh,/data/llmweights/gpt2-xl,16,8,MLP,5,0.5228455754771544,0.5304510593414307
+wiki-zh,/data/llmweights/gpt2-xl,16,8,Logistic Regression,5,0.5159051474840949,0.26082587242126465
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Nearest Neighbors,1,0.6176980913823019,1.0615627765655518
+wiki-zh,/data/llmweights/gpt2-xl,32,8,MLP,1,0.6153846153846154,0.7748427391052246
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Logistic Regression,1,0.6032388663967612,0.3047823905944824
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Nearest Neighbors,2,0.6882591093117408,0.94850754737854
+wiki-zh,/data/llmweights/gpt2-xl,32,8,MLP,2,0.6570271833429728,0.848588228225708
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Logistic Regression,2,0.6784268363215732,0.3123757839202881
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Nearest Neighbors,3,0.5425101214574899,1.09065580368042
+wiki-zh,/data/llmweights/gpt2-xl,32,8,MLP,3,0.5974551764025449,0.7441267967224121
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Logistic Regression,3,0.6009253903990746,0.3090338706970215
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Nearest Neighbors,4,0.6680161943319838,0.972771406173706
+wiki-zh,/data/llmweights/gpt2-xl,32,8,MLP,4,0.6552920763447079,0.8590824604034424
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Logistic Regression,4,0.6500867553499132,0.3289628028869629
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Nearest Neighbors,5,0.6483516483516484,1.125241994857788
+wiki-zh,/data/llmweights/gpt2-xl,32,8,MLP,5,0.6547137073452863,0.88576340675354
+wiki-zh,/data/llmweights/gpt2-xl,32,8,Logistic Regression,5,0.6552920763447079,0.31150221824645996
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Nearest Neighbors,1,0.6448814343551186,1.0780456066131592
+wiki-zh,/data/llmweights/gpt2-xl,64,8,MLP,1,0.5870445344129555,1.7314836978912354
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Logistic Regression,1,0.5957200694042799,0.324282169342041
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Nearest Neighbors,2,0.5928282244071718,1.0420444011688232
+wiki-zh,/data/llmweights/gpt2-xl,64,8,MLP,2,0.6396761133603239,1.2482964992523193
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Logistic Regression,2,0.606709080393291,0.4223020076751709
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Nearest Neighbors,3,0.6038172353961828,1.2477848529815674
+wiki-zh,/data/llmweights/gpt2-xl,64,8,MLP,3,0.6217466743782534,1.4107270240783691
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Logistic Regression,3,0.6217466743782534,0.3693356513977051
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Nearest Neighbors,4,0.6101792943898207,1.0195109844207764
+wiki-zh,/data/llmweights/gpt2-xl,64,8,MLP,4,0.6275303643724697,1.386214256286621
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Logistic Regression,4,0.6234817813765182,0.3392496109008789
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Nearest Neighbors,5,0.589358010410642,0.9451930522918701
+wiki-zh,/data/llmweights/gpt2-xl,64,8,MLP,5,0.5853094274146906,1.503840684890747
+wiki-zh,/data/llmweights/gpt2-xl,64,8,Logistic Regression,5,0.578368999421631,0.3470113277435303
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Nearest Neighbors,1,0.658183921341816,1.0603232383728027
+wiki-zh,/data/llmweights/gpt2-xl,128,8,MLP,1,0.6373626373626373,3.282360792160034
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Logistic Regression,1,0.5905147484094853,0.37352418899536133
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Nearest Neighbors,2,0.6524002313475997,0.9874434471130371
+wiki-zh,/data/llmweights/gpt2-xl,128,8,MLP,2,0.6871023713128976,3.0563018321990967
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Logistic Regression,2,0.6662810873337189,0.39546775817871094
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Nearest Neighbors,3,0.6148062463851938,1.3396551609039307
+wiki-zh,/data/llmweights/gpt2-xl,128,8,MLP,3,0.6171197223828803,2.6726129055023193
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Logistic Regression,3,0.589358010410642,0.3798670768737793
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Nearest Neighbors,4,0.6020821283979179,1.3868975639343262
+wiki-zh,/data/llmweights/gpt2-xl,128,8,MLP,4,0.611336032388664,3.024266004562378
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Logistic Regression,4,0.6101792943898207,0.38121509552001953
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Nearest Neighbors,5,0.6032388663967612,1.1470146179199219
+wiki-zh,/data/llmweights/gpt2-xl,128,8,MLP,5,0.6362058993637941,3.515308380126953
+wiki-zh,/data/llmweights/gpt2-xl,128,8,Logistic Regression,5,0.6431463273568536,0.3919484615325928
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Nearest Neighbors,1,0.5511856564488143,0.9962408542633057
+wiki-zh,/data/llmweights/gpt2-xl,32,16,MLP,1,0.5430884904569115,0.6110813617706299
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Logistic Regression,1,0.5743204164256795,0.2766735553741455
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Nearest Neighbors,2,0.5876229034123771,1.0661754608154297
+wiki-zh,/data/llmweights/gpt2-xl,32,16,MLP,2,0.5922498554077501,0.6362934112548828
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Logistic Regression,2,0.582995951417004,0.28596019744873047
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Nearest Neighbors,3,0.5835743204164257,0.9309775829315186
+wiki-zh,/data/llmweights/gpt2-xl,32,16,MLP,3,0.6148062463851938,0.7445933818817139
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Logistic Regression,3,0.6136495083863505,0.29233741760253906
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Nearest Neighbors,4,0.6286871023713129,1.0622169971466064
+wiki-zh,/data/llmweights/gpt2-xl,32,16,MLP,4,0.6431463273568536,0.8873322010040283
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Logistic Regression,4,0.637941006362059,0.3735957145690918
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Nearest Neighbors,5,0.6009253903990746,1.119140625
+wiki-zh,/data/llmweights/gpt2-xl,32,16,MLP,5,0.6628108733371891,1.0317516326904297
+wiki-zh,/data/llmweights/gpt2-xl,32,16,Logistic Regression,5,0.6610757663389243,0.2855663299560547
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Nearest Neighbors,1,0.6506651243493349,1.0225296020507812
+wiki-zh,/data/llmweights/gpt2-xl,64,16,MLP,1,0.6668594563331406,1.3658866882324219
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Logistic Regression,1,0.6518218623481782,0.344012975692749
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Nearest Neighbors,2,0.5685367264314632,1.1280522346496582
+wiki-zh,/data/llmweights/gpt2-xl,64,16,MLP,2,0.5910931174089069,1.6875433921813965
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Logistic Regression,2,0.6119144013880856,0.32181596755981445
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Nearest Neighbors,3,0.6795835743204164,1.0637743473052979
+wiki-zh,/data/llmweights/gpt2-xl,64,16,MLP,3,0.6992481203007519,1.3298430442810059
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Logistic Regression,3,0.6732215153267784,0.34391140937805176
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Nearest Neighbors,4,0.550028918449971,1.1126062870025635
+wiki-zh,/data/llmweights/gpt2-xl,64,16,MLP,4,0.5939849624060151,1.7399053573608398
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Logistic Regression,4,0.5841526894158473,0.3358626365661621
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Nearest Neighbors,5,0.6200115673799884,1.2913780212402344
+wiki-zh,/data/llmweights/gpt2-xl,64,16,MLP,5,0.637941006362059,1.7687485218048096
+wiki-zh,/data/llmweights/gpt2-xl,64,16,Logistic Regression,5,0.6078658183921342,0.3492248058319092
+wiki-zh,/data/llmweights/gpt2-xl,128,16,Nearest Neighbors,1,0.5748987854251012,1.138848066329956
+wiki-zh,/data/llmweights/gpt2-xl,128,16,MLP,1,0.6246385193753615,3.5247232913970947
+wiki-zh,/data/llmweights/gpt2-xl,128,16,Logistic Regression,1,0.6495083863504916,0.3762352466583252
+wiki-zh,/data/llmweights/gpt2-xl,128,16,Nearest Neighbors,2,0.5922498554077501,1.1596686840057373
+wiki-zh,/data/llmweights/gpt2-xl,128,16,MLP,2,0.6026604973973395,5.325102090835571
+wiki-zh,/data/llmweights/gpt2-xl,128,16,Logistic Regression,2,0.6153846153846154,0.38343238830566406
+wiki-zh,/data/llmweights/gpt2-xl,128,16,Nearest Neighbors,3,0.6205899363794101,1.0119342803955078
+wiki-zh,/data/llmweights/gpt2-xl,128,16,MLP,3,0.6471949103528051,3.571164846420288
+wiki-zh,/data/llmweights/gpt2-xl,128,16,Logistic Regression,3,0.6344707923655292,0.3779106140136719
