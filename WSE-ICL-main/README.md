@@ -2,7 +2,7 @@
 Source code for the paper "Word Structure Embedding and In-Context Learning  for Chinese Segmentation" in IEEE Access 
 
 <div  align="center">  
-<img src="./FADS-ICL.png" width="50%" alt="Framework of FADS-ICL" align=center />
+<img src="./WSE-ICL.png" width="50%" alt="Framework of WSE-ICL" align=center />
 </div>  
 
 ## Preparation
